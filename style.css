@@ -1,0 +1,119 @@
+ body {
+ 	background-color: white;
+ 	font-family: Times, serif;
+ 	font-size: 20px;
+ 	line-height: 1,8;
+ 	font-weight: lighter;
+ 	text-justify: center;
+ }
+ h1 {
+     color: darkblue;
+     font-size: 40px;
+     font-weight: 900;
+}
+ h2 {
+	 color: royalblue;
+	 font-size: 30px;
+	 font-weight: 900;
+} 
+ a:hover {
+	 color: mediumblue;
+	 font-weight: bolder;
+	 font-style: times new roman;
+}
+ 
+ #profile{
+     width: 175px;
+     border-radius: 50%;
+     border: 2px solid black;
+}
+
+ #MV{
+     text-align: justify-all;	
+}
+
+ #PE{
+     text-align: justify-all;
+}
+
+ #HS{
+     text-align: justify-all;	
+}
+
+ #SAKH{
+     text-align: justify-all;	
+}
+
+ #L{
+     text-align: justify-all;	
+}
+
+ #P{
+     text-align: justify-all;	
+}
+
+ #T{
+     text-align: justify-all;	
+}
+
+ #CI{
+     text-align: justify-all;	
+}
+
+div{
+	
+	border-right: 1px solid lightgrey;
+	border-left: 1px solid lightgrey;
+	border-top: 1px solid lightgrey;
+	margin-top: 80px;
+	margin-right: 80px;
+	margin-bottom: 80px;
+	margin-left: 80px;
+	box-shadow: 4px 4px 4px lightgrey;
+}
+
+<div style="
+width: 700px;
+margin: 50px auto;
+padding: 40px;
+box-shadow: 0px 10px 30px;
+"</div>
+
+/* Custom design with class */
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+.card-design {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0.0.0.0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+.btn-blue {
+	background-color: lightblue;
+	color: white;
+    padding: 15px 20px;
+}
+.list-inline {
+list-style: none
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+.list-inline i {
+	font-size: 50px;
+}
+
+
+
+
+
